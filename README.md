@@ -50,8 +50,8 @@
 | Column                               | Type        | Options           |
 | ------------------------------------ | ----------- | ----------------- |
 | title                                | string      | null: false       |
-| point_get                            | string      | foreign_key: true |
-| point_consume                        | string      | foreign_key: true |
+| point_get                            | string      | null: false       |
+| point_consume                        | string      | null: false       |
 | ho_id                                | integer     | foreign_key: true |
 | ho_explain                           | integer     | null: false       |
 | birth_ego                            | string      | foreign_key: true |
