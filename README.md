@@ -7,8 +7,8 @@
 | nickname                       | string  | null: false |
 | email                          | string  | null: false, unique: true |
 | encrypted_password             | string  | null: false |
-| point_use_total                | integer | null: false | ## 
-| point_have_total               | integer | null: false | ## 
+| point_use_total                | integer | null: false |
+| point_have_total               | integer | null: false |
 
 
 
